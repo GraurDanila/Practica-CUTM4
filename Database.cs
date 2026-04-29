@@ -1,5 +1,6 @@
 ﻿// Ziua 2 - analiza arhitecturii si fluxului de date
 using MySql.Data.MySqlClient;
+// Ziua 5 - analiza structurii bazei de date
 
 namespace CentruInstruire
 {
