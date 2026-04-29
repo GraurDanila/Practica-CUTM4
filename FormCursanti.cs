@@ -1,4 +1,5 @@
 ﻿// Ziua 7 - proiectarea interfetei pentru cursanti
+// Ziua 8 - implementarea algoritmului CRUD pentru cursanti
 using System.Text.RegularExpressions;
 
 namespace CentruInstruire
