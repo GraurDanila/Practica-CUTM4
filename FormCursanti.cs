@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿// Ziua 7 - proiectarea interfetei pentru cursanti
+using System.Text.RegularExpressions;
 
 namespace CentruInstruire
 {
