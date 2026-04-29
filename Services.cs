@@ -1,4 +1,5 @@
-﻿using MySql.Data.MySqlClient;
+﻿// Ziua 4 - planificarea modulelor aplicatiei
+using MySql.Data.MySqlClient;
 
 namespace CentruInstruire
 {
