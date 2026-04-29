@@ -3,6 +3,7 @@ using MySql.Data.MySqlClient;
 // Ziua 5 - analiza structurii bazei de date
 // Ziua 9 - proiectarea bazei de date pentru cursuri
 
+// Ziua 10 - crearea si configurarea bazei de date
 namespace CentruInstruire
 {
     public static class Database
