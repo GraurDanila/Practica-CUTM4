@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿// Ziua 14 - implementarea extractiei datelor si rapoartelor
+using System.Text;
 
 namespace CentruInstruire
 {
