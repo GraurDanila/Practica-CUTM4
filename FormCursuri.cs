@@ -1,4 +1,5 @@
 ﻿// Ziua 12 - proiectarea interfetei pentru cursuri
+// Ziua 13 - implementarea logicii de prelucrare pentru cursuri
 namespace CentruInstruire
 {
     public class FormCursuri : Form
