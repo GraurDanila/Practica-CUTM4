@@ -1,6 +1,7 @@
 ﻿// Ziua 12 - proiectarea interfetei pentru cursuri
 // Ziua 13 - implementarea logicii de prelucrare pentru cursuri
 // Ziua 24 - adaugarea filtrelor avansate in modulul Cursuri
+// Ziua 34 - testarea integrala a modulelor Cursuri si Inscrieri
 namespace CentruInstruire
 {
     public class FormCursuri : Form
