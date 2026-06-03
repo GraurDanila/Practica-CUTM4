@@ -1,4 +1,5 @@
 ﻿// Ziua 15 - proiectarea interfetei pentru inscrieri
+// Ziua 16 - implementarea logicii complete pentru inscrieri
 namespace CentruInstruire
 {
     public class FormInscrieri : Form
