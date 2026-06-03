@@ -1,4 +1,5 @@
 ﻿// Ziua 4 - planificarea modulelor aplicatiei
+// Ziua 17 - optimizarea codului si imbunatatirea performantei
 using MySql.Data.MySqlClient;
 
 namespace CentruInstruire
