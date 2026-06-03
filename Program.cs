@@ -1,3 +1,4 @@
+// Ziua 20 - raport intermediar luna 1
 using System.Windows.Forms;
 using WinFormsApp1;
 
