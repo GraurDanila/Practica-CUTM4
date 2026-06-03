@@ -2,6 +2,7 @@
 // Ziua 17 - optimizarea codului si imbunatatirea performantei
 // Ziua 28 - implementarea exportului datelor in format CSV
 // Ziua 30 - implementarea sistemului de logare a activitatii
+// Ziua 32 - restructurarea si curatarea codului din Services
 using MySql.Data.MySqlClient;
 
 namespace CentruInstruire
