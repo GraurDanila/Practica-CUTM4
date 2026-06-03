@@ -1,5 +1,6 @@
 ﻿// Ziua 4 - planificarea modulelor aplicatiei
- // Ziua 17 - optimizarea codului si imbunatatirea performantei
+// Ziua 17 - optimizarea codului si imbunatatirea performantei
+// Ziua 28 - implementarea exportului datelor in format CSV
 using MySql.Data.MySqlClient;
 
 namespace CentruInstruire
