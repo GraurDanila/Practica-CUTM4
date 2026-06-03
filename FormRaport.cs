@@ -1,4 +1,5 @@
 ﻿// Ziua 14 - implementarea extractiei datelor si rapoartelor
+// Ziua 26 - implementarea raportului pentru cursanti activi
 using System.Text;
 
 namespace CentruInstruire
