@@ -5,6 +5,7 @@ using MySql.Data.MySqlClient;
 
 // Ziua 10 - crearea si configurarea bazei de date
 // Ziua 11 - administrarea obiectelor bazei de date
+// Ziua 29 - securizarea inputurilor si prevenirea SQL injection
 namespace CentruInstruire
 {
     public static class Database
