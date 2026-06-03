@@ -2,6 +2,7 @@
 // Ziua 8 - implementarea algoritmului CRUD pentru cursanti
 // Ziua 19 - testarea completa a tuturor modulelor
 // Ziua 22 - implementarea validarilor avansate pentru cursanti
+// Ziua 23 - adaugarea functiei de cautare in modulul Cursanti
 using System.Text.RegularExpressions;
 
 namespace CentruInstruire
