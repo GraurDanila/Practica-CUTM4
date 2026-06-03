@@ -1,4 +1,5 @@
-﻿ // Ziua 6 - imbunatatirea interfetei principale
+﻿// Ziua 6 - imbunatatirea interfetei principale
+// Ziua 21 - revizuirea si imbunatatirea interfetei FormMain
 namespace CentruInstruire
 {
     public class FormMain : Form
