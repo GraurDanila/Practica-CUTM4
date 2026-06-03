@@ -1,4 +1,5 @@
-﻿namespace CentruInstruire
+﻿// Ziua 37 - adaugarea comentariilor si documentatiei complete
+namespace CentruInstruire
 {
     public class Cursant
     {
