@@ -1,5 +1,6 @@
 ﻿// Ziua 7 - proiectarea interfetei pentru cursanti
 // Ziua 8 - implementarea algoritmului CRUD pentru cursanti
+// Ziua 19 - testarea completa a tuturor modulelor
 using System.Text.RegularExpressions;
 
 namespace CentruInstruire
