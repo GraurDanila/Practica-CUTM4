@@ -3,6 +3,7 @@
 // Ziua 19 - testarea completa a tuturor modulelor
 // Ziua 22 - implementarea validarilor avansate pentru cursanti
 // Ziua 23 - adaugarea functiei de cautare in modulul Cursanti
+// Ziua 33 - testarea integrala a modulului Cursanti
 using System.Text.RegularExpressions;
 
 namespace CentruInstruire
