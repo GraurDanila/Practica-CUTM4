@@ -1,6 +1,7 @@
 ﻿// Ziua 14 - implementarea extractiei datelor si rapoartelor
 // Ziua 26 - implementarea raportului pentru cursanti activi
 // Ziua 27 - implementarea rapoartelor statistice pentru cursuri
+// Ziua 35 - testarea si validarea modulului de rapoarte
 using System.Text;
 
 namespace CentruInstruire
