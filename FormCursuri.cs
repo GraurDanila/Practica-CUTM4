@@ -1,5 +1,6 @@
 ﻿// Ziua 12 - proiectarea interfetei pentru cursuri
 // Ziua 13 - implementarea logicii de prelucrare pentru cursuri
+// Ziua 24 - adaugarea filtrelor avansate in modulul Cursuri
 namespace CentruInstruire
 {
     public class FormCursuri : Form
